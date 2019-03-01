@@ -1,0 +1,132 @@
+
+Socket used and no resources used
+
+[Parent]New string is : 
+Parent says to child
+
+
+[Parent]String Length is : 22
+
+[Parent]Led State is : 0
+
+[Parent]Second string is : 
+Second String
+
+
+[Parent]Third string is : 
+Third String
+
+
+[Parent]Fourth string is : 
+Fourth String
+
+
+[Parent]Fifth string is : 
+Fifth String
+
+
+[Parent]PID is : 15584
+
+[Parent]PID2 is : 15584
+
+[Parent]PID3: 15584
+
+[Value]time stamp reading when parent sends to child: 283561512 
+
+Socket used and no resources used
+
+[Child]New string is : 
+Parent says to child
+
+
+[Child]String Length is : 22
+
+Led State is : 0
+
+Second string is : 
+Second String
+
+
+Third string is : 
+Third String
+
+
+Fourth string is : 
+Fourth String
+
+
+Fifth string is : 
+Fifth String
+
+
+PID is : 15584
+
+PID2 is : 15584
+
+PID3: 15584
+
+[Value]time stamp reading when parent sends to child: 283743474 
+
+[Parent]New string is : 
+Child says to Parent
+
+
+[Parent]String Length is : 22
+
+[Parent]Led State is : 1
+
+[Parent]Second string is : 
+Second String
+
+
+[Parent]Third string is : 
+Third String
+
+
+[Parent]Fourth string is : 
+Fourth String
+
+
+[Parent]Fifth string is : 
+Fifth String
+
+
+[Parent]PID is : 15576
+
+[Parent]PID2 is : 15576
+
+[Parent]PID3: 15576
+
+[Value]time stamp reading when parent sends to child: 283780317 
+
+[Child]New string is : 
+Child says to Parent
+
+
+[Child]String Length is : 22
+
+Led State is : 1
+
+Second string is : 
+Second String
+
+
+Third string is : 
+Third String
+
+
+Fourth string is : 
+Fourth String
+
+
+Fifth string is : 
+Fifth String
+
+
+PID is : 15576
+
+PID2 is : 15576
+
+PID3: 15576
+
+[Value]time stamp reading when parent sends to child: 284489401 

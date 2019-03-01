@@ -1,0 +1,252 @@
+
+[Parent]New string is : 
+Parent says to child
+
+
+[Parent]String Length is : 22
+
+[Parent]Led State is : 0
+
+[Parent]Second string is : 
+Second String
+
+
+[Parent]Third string is : 
+Third String
+
+
+[Parent]Fourth string is : 
+Fourth String
+
+
+[Parent]Fifth string is : 
+Fifth String
+
+
+[Parent]PID is : 14967
+
+[Parent]PID2 is : 14967
+
+[Parent]PID3: 14967
+
+[Value]time stamp reading when parent sends to child: 617772038 
+
+[Child]New string is : 
+Parent says to child
+
+
+[Child]String Length is : 22
+
+[Child]Led State is : 0
+
+[Child]Second string is : 
+Second String
+
+
+[Child]Third string is : 
+Third String
+
+
+[Child]Fourth string is : 
+Fourth String
+
+
+[Child]Fifth string is : 
+Fifth String
+
+
+[Child]PID is : 14967
+
+[Child]PID2 is : 14967
+
+[Child]PID3: 14967
+
+[Child]time stamp reading when parent sends to child: 617897763 
+
+[Child]New string is : Message from Child
+
+[Child]String Length is : 18
+
+[Child]Led State is : 1
+
+[Child]Second string is : 
+Second String
+
+
+[Child]Third string is : 
+Third String
+
+
+[Child]Fourth string is : 
+Fourth String
+
+
+[Child]Fifth string is : 
+Fifth String
+
+
+[Child]PID is : 14968
+
+[Child]PID2 is : 14968
+
+[Child]PID3: 14968
+
+[Child]time stamp reading when parent sends to child: 617925243 
+
+[Parent]New string is : Message from Child
+
+[Parent]String Length is : 18
+
+[Parent]Led State is : 1
+
+[Parent]Second string is : 
+Second String
+
+
+[Parent]Third string is : 
+Third String
+
+
+[Parent]Fourth string is : 
+Fourth String
+
+
+[Parent]Fifth string is : 
+Fifth String
+
+
+[Parent]PID is : 14968
+
+[Parent]TID is : 14968
+
+[Parent]Pthread_self: 14968
+
+[Value]time stamp reading when parent sends to child: 618004774 
+
+Pipes IPC Method and No Resources being used
+
+[Parent]New string is : 
+Parent says to child
+
+
+[Parent]String Length is : 22
+
+[Parent]Led State is : 0
+
+[Parent]Second string is : 
+Second String
+
+
+[Parent]Third string is : 
+Third String
+
+
+[Parent]Fourth string is : 
+Fourth String
+
+
+[Parent]Fifth string is : 
+Fifth String
+
+
+[Parent]PID is : 15018
+
+[Parent]PID2 is : 15018
+
+[Parent]PID3: 15018
+
+[Value]time stamp reading when parent sends to child: 604354563 
+
+[Child]New string is : 
+Parent says to child
+
+
+[Child]String Length is : 22
+
+[Child]Led State is : 0
+
+[Child]Second string is : 
+Second String
+
+
+[Child]Third string is : 
+Third String
+
+
+[Child]Fourth string is : 
+Fourth String
+
+
+[Child]Fifth string is : 
+Fifth String
+
+
+[Child]PID is : 15018
+
+[Child]PID2 is : 15018
+
+[Child]PID3: 15018
+
+[Child]time stamp reading when parent sends to child: 605313525 
+
+Pipes IPC Method and No Resources being used
+
+[Child]New string is : Message from Child
+
+[Child]String Length is : 18
+
+[Child]Led State is : 1
+
+[Child]Second string is : 
+Second String
+
+
+[Child]Third string is : 
+Third String
+
+
+[Child]Fourth string is : 
+Fourth String
+
+
+[Child]Fifth string is : 
+Fifth String
+
+
+[Child]PID is : 15019
+
+[Child]PID2 is : 15019
+
+[Child]PID3: 15019
+
+[Child]time stamp reading when parent sends to child: 605876739 
+
+[Parent]New string is : Message from Child
+
+[Parent]String Length is : 18
+
+[Parent]Led State is : 1
+
+[Parent]Second string is : 
+Second String
+
+
+[Parent]Third string is : 
+Third String
+
+
+[Parent]Fourth string is : 
+Fourth String
+
+
+[Parent]Fifth string is : 
+Fifth String
+
+
+[Parent]PID is : 15019
+
+[Parent]TID is : 15019
+
+[Parent]Pthread_self: 15019
+
+[Value]time stamp reading when parent sends to child: 606381250 

@@ -1,0 +1,136 @@
+
+Posix Queue and no resources used
+
+[Parent]New string is : 
+Parent says to child
+
+
+[Parent]String Length is : 22
+
+[Parent]Led State is : 1
+
+[Parent]Second string is : 
+Second String
+
+
+[Parent]Third string is : 
+Third String
+
+
+[Parent]Fourth string is : 
+Fourth String
+
+
+[Parent]Fifth string is : 
+Fifth String
+
+
+[Parent]PID is : 16548
+
+[Parent]PID2 is : 16548
+
+[Parent]PID3: 16548
+
+[Value]time stamp reading when parent sends to child: 470034639 
+
+Posix Queue and no resources used
+
+[Child]New string is : 
+Parent says to child
+
+
+[Child]String Length is : 22
+
+Led State is : 1
+
+Second string is : 
+Second String
+
+
+Third string is : 
+Third String
+
+
+Fourth string is : 
+Fourth String
+
+
+Fifth string is : 
+Fifth String
+
+
+PID is : 16548
+
+PID2 is : 16548
+
+PID3: 16548
+
+[Value]time stamp reading when parent sends to child: 470158894 
+
+Posix Queue and no resources used
+
+[Parent]New string is : 
+Child says to Parent
+
+
+[Parent]String Length is : 22
+
+[Parent]Led State is : 0
+
+[Parent]Second string is : 
+Second String
+
+
+[Parent]Third string is : 
+Third String
+
+
+[Parent]Fourth string is : 
+Fourth String
+
+
+[Parent]Fifth string is : 
+Fifth String
+
+
+[Parent]PID is : 16547
+
+[Parent]PID2 is : 16547
+
+[Parent]PID3: 16547
+
+[Value]time stamp reading when parent sends to child: 470187501 
+
+Posix Queue and no resources used
+
+[Child]New string is : 
+Child says to Parent
+
+
+[Child]String Length is : 22
+
+Led State is : 0
+
+Second string is : 
+Second String
+
+
+Third string is : 
+Third String
+
+
+Fourth string is : 
+Fourth String
+
+
+Fifth string is : 
+Fifth String
+
+
+PID is : 16547
+
+PID2 is : 16547
+
+PID3: 16547
+
+[Value]time stamp reading when parent sends to child: 470851473 
