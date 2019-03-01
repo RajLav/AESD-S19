@@ -1,0 +1,136 @@
+
+Shared Memory IPC and semphores and mutex used
+
+[Parent]New string is : 
+Parent says to child
+
+
+[Parent]String Length is : 22
+
+[Parent]Led State is : 0
+
+[Parent]Second string is : 
+Second String
+
+
+[Parent]Third string is : 
+Third String
+
+
+[Parent]Fourth string is : 
+Fourth String
+
+
+[Parent]Fifth string is : 
+Fifth String
+
+
+[Parent]PID is : 17518
+
+[Parent]PID2 is : 17518
+
+[Parent]PID3: 17518
+
+[Value]time stamp reading when parent sends to child: 216518822 
+
+Shared Memory IPC and semphores and mutex used
+
+[Child]New string is : 
+Parent says to child
+
+
+[Child]String Length is : 22
+
+Led State is : 0
+
+Second string is : 
+Second String
+
+
+Third string is : 
+Third String
+
+
+Fourth string is : 
+Fourth String
+
+
+Fifth string is : 
+Fifth String
+
+
+PID is : 17518
+
+PID2 is : 17518
+
+PID3: 17518
+
+[Value]time stamp reading when parent sends to child: 216581400 
+
+Shared Memory IPC and semphores and mutex used
+
+[Parent]New string is : 
+Child says to Parent
+
+
+[Parent]String Length is : 22
+
+[Parent]Led State is : 1
+
+[Parent]Second string is : 
+Second String
+
+
+[Parent]Third string is : 
+Third String
+
+
+[Parent]Fourth string is : 
+Fourth String
+
+
+[Parent]Fifth string is : 
+Fifth String
+
+
+[Parent]PID is : 0
+
+[Parent]PID2 is : 0
+
+[Parent]PID3: 0
+
+[Value]time stamp reading when parent sends to child: 216605250 
+
+Shared Memory IPC and semphores and mutex used
+
+[Child]New string is : 
+Child says to Parent
+
+
+[Child]String Length is : 22
+
+Led State is : 1
+
+Second string is : 
+Second String
+
+
+Third string is : 
+Third String
+
+
+Fourth string is : 
+Fourth String
+
+
+Fifth string is : 
+Fifth String
+
+
+PID is : 0
+
+PID2 is : 0
+
+PID3: 0
+
+[Value]time stamp reading when parent sends to child: 217944619 
