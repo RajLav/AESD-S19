@@ -1,3 +1,7 @@
+**#Assignment : 5    
+#Author : Raj Lavingia    
+#Term : Spring 19**  
+
 # Tiva TM4C1294 Launchpad FreeRTOS Demo #
 
 This firmware package is intended to provide a starting point for creating a FreeRTOS 9.0 based project in Code Composer Studio for the Tiva TM4C1294 launchpad, which is currently not supplied by either FreeRTOS or Texas Instruments.
@@ -12,5 +16,10 @@ This firmware package is intended to provide a starting point for creating a Fre
 * Green LEDs D1 - D4 will blink in sequence 1 per second
 * Serial port via Stellaris Virtual Serial Port will output "Hello, world from FreeRTOS 9.0!"
 
-## Notes ##
-This software is provided as-is!
+**Concepts Learned :**
+
+#FreeRTOS Implementation  
+#Interfaced Temperature Sensor Using I2C on FreeRTOS on TIVA 1294C development board  
+#Time Management , for LEDs every 1 second and temperature reading at 10 seconds  
+#If alert occurs (Temperature above certain threshold) then specific message displayed on console  
+
